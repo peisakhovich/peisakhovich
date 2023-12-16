@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @peisakhovich
-- My name is Grigoriy Peysakhovich
 
 - 🌱 I’m currently learning: git,javascript,jsnode,postgres,HTTP,CSS,pyton,SQL
 
