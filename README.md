@@ -2,7 +2,7 @@
 - My name is Grigoriy Peysakhovich
 
 - 🌱 I’m currently learning: git,javascript,jsnode,postgres,HTTP,CSS,pyton,SQL
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me:  grigoriy.peisakhovich@gmail.com
 
 <!---
